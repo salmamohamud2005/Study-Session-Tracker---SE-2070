@@ -1,0 +1,14 @@
+Subject: Intro to prog ll
+Started: 04-22-2026 10:28:04 PM
+Ended: 04-22-2026 11:31:28 PM
+Minutes Studied: 20.55
+Goal Minutes: 20
+Completed Goal: true
+-----------------------------
+Subject: Math
+Started: 04-23-2026 09:38:17 AM
+Ended: 04-23-2026 10:05:16 AM
+Minutes Studied: 21.47
+Goal Minutes: 60
+Completed Goal: false
+-------------------
